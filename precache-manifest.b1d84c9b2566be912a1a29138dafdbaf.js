@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shoppy/css/about.52d963c3.css"
   },
   {
-    "revision": "8dbd3d732eb45157625f",
+    "revision": "c6392d374ab957f7695a",
     "url": "/shoppy/css/app.b8711450.css"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shoppy/img/login-banner.7ad9b6ff.jpg"
   },
   {
-    "revision": "5742517ae8905da22d86c252a81beba7",
+    "revision": "0d987e4e1f86065f6ccbbf803923ebed",
     "url": "/shoppy/index.html"
   },
   {
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shoppy/js/about.d24fcebc.js"
   },
   {
-    "revision": "8dbd3d732eb45157625f",
-    "url": "/shoppy/js/app.607f483f.js"
+    "revision": "c6392d374ab957f7695a",
+    "url": "/shoppy/js/app.379b6ba4.js"
   },
   {
     "revision": "b700012a0cbcb8e804d0",
